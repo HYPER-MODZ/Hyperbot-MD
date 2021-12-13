@@ -1,0 +1,1 @@
+exports.ind = require('./sri_lanka')
